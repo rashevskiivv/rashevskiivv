@@ -28,9 +28,10 @@
 I am an Android Developer :iphone:.
 - :telescope: I'm working on my own projects and looking for a job as a Junior Android Developer.
 
-- :monocle_face: I'm learning new technologies for me, such as DI and testing.
+- :monocle_face: I'm learning new technologies for me, development plan as a developer can be seen below.
 
 - :zap: In my free time, I walk around the city to music (genres can be viewed on VK (see social networks above)), I play and come up with ideas for games, and I also read a lot of different things.
+
 
 ---
 
@@ -53,3 +54,64 @@ I am an Android Developer :iphone:.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e1ko0o&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e1ko0o&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Development plan
+* [x] Kotlin
+* [x] Data structures
+* [x] SOLID
+* [x] DRY, KISS, YAGNI, BDUF
+* [x] OOP
+* [ ] Design patterns
+* [x] Server response codes
+* [x] REST API
+* [x] git
+* [x] Gradle files in Android
+* [x] Android Manifest file
+* [x] Development patterns (MVC, MVP, MVVM, MVI)
+* [x] Binding (View + Data)
+* [x] UI items (Bottom nav menu, tab bar, recyclerview, navigation drawer, )
+* [x] ViewPager2
+* [x] Activity (includes lifecycle)
+* [x] Fragment (includes lifecycle)
+* [x] Shared preferences
+* [x] Notifications
+* [x] Services
+* [x] Broadcast receiver
+* [ ] Coroutines
+* [ ] Context
+* [ ] View-component
+* [ ] Executor
+* [ ] ViewModel
+* [ ] Navigation
+* [ ] LiveData
+* [ ] Flows
+* [ ] Content provider
+* [ ] Intent filter
+* [ ] Work manager
+* [ ] Looper
+* [ ] Retrofit
+* [ ] OkHttp
+* [ ] RxJava
+* [ ] CLEAN Architecture 
+* [ ] JSON + GSON
+* [ ] File system
+* [ ] Jetpack, Android X
+* [ ] Room
+* [ ] Glide/Coin
+* [ ] Material Design
+* [ ] AAB + APK
+* [ ] Android SDK
+* [ ] AVD (Android virual device)
+* [ ] DI
+* [ ] JUnit4/Espresso/Mockito
+* [x] Jira/TFS/Redmine
+* [ ] Agile
+* [ ] Exoplayer
+* [ ] R8
+* [ ] .keystore file
+* [ ] Firebase
+* [ ] Bootloader
+* [ ] Recovery
+* [ ] Root
+* [ ] ADB (Android Device Bridge)
