@@ -57,61 +57,118 @@ I am an Android Developer :iphone:.
 
 
 ## Development plan
-* [x] Kotlin
-* [x] Data structures
-* [x] SOLID
-* [x] DRY, KISS, YAGNI, BDUF
-* [x] OOP
-* [ ] Design patterns
-* [x] Server response codes
-* [x] REST API
-* [x] git
-* [x] Gradle files in Android
-* [x] Android Manifest file
-* [x] Development patterns (MVC, MVP, MVVM, MVI)
-* [x] Binding (View + Data)
-* [x] UI items (Bottom nav menu, tab bar, recyclerview, navigation drawer, )
-* [x] ViewPager2
-* [x] Activity (includes lifecycle)
-* [x] Fragment (includes lifecycle)
-* [x] Shared preferences
-* [x] Notifications
-* [x] Services
-* [x] Broadcast receiver
-* [ ] Coroutines
-* [ ] Context
-* [ ] View-component
-* [ ] Executor
-* [ ] ViewModel
-* [ ] Navigation
-* [ ] LiveData
-* [ ] Flows
-* [ ] Content provider
-* [ ] Intent filter
-* [ ] Work manager
-* [ ] Looper
-* [ ] Retrofit
-* [ ] OkHttp
-* [ ] RxJava
-* [ ] CLEAN Architecture 
-* [ ] JSON + GSON
-* [ ] File system
-* [ ] Jetpack, Android X
-* [ ] Room
-* [ ] Glide/Coin
-* [ ] Material Design
-* [ ] AAB + APK
-* [ ] Android SDK
-* [ ] AVD (Android virual device)
-* [ ] DI
-* [ ] JUnit4/Espresso/Mockito
-* [x] Jira/TFS/Redmine
-* [ ] Agile
-* [ ] Exoplayer
-* [ ] R8
-* [ ] .keystore file
-* [ ] Firebase
-* [ ] Bootloader
-* [ ] Recovery
-* [ ] Root
-* [ ] ADB (Android Device Bridge)
+:heavy_check_mark: Kotlin
+
+:heavy_check_mark: Data structures
+
+:heavy_check_mark: SOLID
+
+:heavy_check_mark: DRY, KISS, YAGNI, BDUF
+
+:heavy_check_mark: OOP
+
+:x: Design patterns
+
+:heavy_check_mark: Server response codes
+
+:heavy_check_mark: REST API
+
+:heavy_check_mark: git
+
+:heavy_check_mark: Gradle files in Android
+
+:heavy_check_mark: Android Manifest file
+
+:heavy_check_mark: Development patterns (MVC, MVP, MVVM, MVI)
+
+:heavy_check_mark: Binding (View + Data)
+
+:heavy_check_mark: UI items (Bottom nav menu, tab bar, recyclerview, navigation drawer, etc.)
+
+:heavy_check_mark: ViewPager2
+
+:heavy_check_mark: Activity (includes lifecycle)
+
+:heavy_check_mark: Fragment (includes lifecycle)
+
+:heavy_check_mark: Shared preferences
+
+:heavy_check_mark: Notifications
+
+:heavy_check_mark: Services
+
+:heavy_check_mark: Broadcast receiver
+
+:heavy_check_mark: Coroutines
+
+:x: Context
+
+:x: View-component
+
+:heavy_check_mark: Executor
+
+:heavy_check_mark: ViewModel
+
+:x: Navigation
+
+:x: LiveData
+
+:x: Flows
+
+:x: Content provider
+
+:x: Intent filter
+
+:x: Work manager
+
+:x: Looper
+
+:x: Retrofit
+
+:x: OkHttp
+
+:x: RxJava
+
+:x: CLEAN Architecture 
+
+:x: JSON + GSON
+
+:x: File system
+
+:x: Jetpack, Android X
+
+:x: Room
+
+:x: Glide/Coin
+
+:x: Material Design
+
+:x: AAB + APK
+
+:x: Android SDK
+
+:x: AVD (Android virual device)
+
+:x: DI
+
+:x: JUnit4/Espresso/Mockito
+
+:heavy_check_mark: Jira/TFS/Redmine
+
+:x: Agile
+
+:x: Exoplayer
+
+:x: R8
+
+:x: .keystore file
+
+:x: Firebase
+
+:x: Bootloader
+
+:x: Recovery
+
+:x: Root
+
+:x: ADB (Android Device Bridge)
