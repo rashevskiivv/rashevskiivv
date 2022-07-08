@@ -101,7 +101,7 @@ I am an Android Developer :iphone:.
 
 :heavy_check_mark: Coroutines
 
-:x: Context
+:heavy_check_mark: Context
 
 :x: View-component
 
@@ -111,21 +111,21 @@ I am an Android Developer :iphone:.
 
 :x: Navigation
 
-:x: LiveData
+:heavy_check_mark: LiveData
 
 :x: Flows
 
-:x: Content provider
+:heavy_check_mark: Content provider
 
-:x: Intent filter
+:heavy_check_mark: Intent filter
 
-:x: Work manager
+:heavy_check_mark: Work manager
 
-:x: Looper
+:heavy_check_mark: Looper
 
-:x: Retrofit
+:heavy_check_mark: Retrofit
 
-:x: OkHttp
+:heavy_check_mark: OkHttp
 
 :x: RxJava
 
@@ -139,7 +139,7 @@ I am an Android Developer :iphone:.
 
 :x: Room
 
-:x: Glide/Coin
+:heavy_check_mark: Glide
 
 :x: Material Design
 
