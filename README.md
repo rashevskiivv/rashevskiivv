@@ -3,19 +3,19 @@
     <img src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="324" height="385"/>
   </div>
   <div id="badges">  
-    <a href="https://www.linkedin.com/in/e1ko0o/">
+    <a href="https://www.linkedin.com/in/rashviach/">
       <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/E1ko0o">
+    <a href="https://twitter.com/rashviach">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://t.me/E1ko0o">
+    <a href="https://t.me/rashviach">
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://vk.com/e1ko0o">
+    <a href="https://vk.com/rashviach">
       <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
     </a>    
-    <a href="https://www.instagram.com/e1ko0o/">
+    <a href="https://www.instagram.com/rashviach/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
