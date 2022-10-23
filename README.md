@@ -1,7 +1,4 @@
 <div id="header" align="center">
-  <div align="center">
-    <img src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="324" height="385"/>
-  </div>
   <div id="badges">  
     <a href="https://www.linkedin.com/in/rashviach/">
       <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
