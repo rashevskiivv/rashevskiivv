@@ -1,18 +1,18 @@
 <div id="header" align="center">
   <div id="badges">  
-    <a href="https://www.linkedin.com/in/rashviach/">
+    <a href="https://www.linkedin.com/in/rashvv/">
       <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/rashviach">
+    <a href="https://twitter.com/rash_v_v">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://t.me/rashviach">
+    <a href="https://t.me/rash_vv">
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://vk.com/rashviach">
+    <a href="https://vk.com/rash_vv">
       <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
     </a>    
-    <a href="https://www.instagram.com/rashviach/">
+    <a href="https://www.instagram.com/rash_vv/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
