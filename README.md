@@ -13,7 +13,13 @@
       <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
     </a>    
     <a href="https://www.instagram.com/rashevskiivv/">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://docs.google.com/spreadsheets/d/15GPD_X_9wHNcho8zxy89Hq-1j9W2Vi2FNDUpKt29Szg/edit?usp=share_link">
+      <img src="https://img.shields.io/badge/-My%20CV%20in%20English-blueviolet?style=for-the-badge" alt="English CV Badge"/>
+    </a>
+        <a href="https://docs.google.com/spreadsheets/d/15GPD_X_9wHNcho8zxy89Hq-1j9W2Vi2FNDUpKt29Szg/edit?usp=share_link">
+      <img src="https://img.shields.io/badge/-My%20CV%20in%20Russian-red?style=for-the-badge" alt="Russian CV Badge"/>
     </a>
   </div>
 </div>
@@ -22,7 +28,7 @@
 
 :technologist: About Me :
 
-I am an Golang Developer :iphone:.
+I am a Golang Developer :iphone:.
 - :telescope: I'm working on my own projects and looking for a job as a Junior Golang Developer.
 
 - :monocle_face: I'm learning new technologies for me.
