@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/rashevskiivv/">
       <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://docs.google.com/spreadsheets/d/15GPD_X_9wHNcho8zxy89Hq-1j9W2Vi2FNDUpKt29Szg/edit?usp=share_link">
+    <a href="https://docs.google.com/spreadsheets/d/1hrxDlSLinjZpAIU0nh_3MZUJVicptLOl3VfDCifCHLA/edit?usp=sharing">
       <img src="https://img.shields.io/badge/-My%20CV%20in%20English-blueviolet?style=for-the-badge" alt="English CV Badge"/>
     </a>
         <a href="https://docs.google.com/spreadsheets/d/15GPD_X_9wHNcho8zxy89Hq-1j9W2Vi2FNDUpKt29Szg/edit?usp=share_link">
@@ -28,10 +28,8 @@
 
 :technologist: About Me :
 
-I am a Golang Developer :iphone:.
+I am a Golang Developer :desktop_computer:.
 - :telescope: I'm working on my own projects and looking for a job as a Junior Golang Developer.
-
-- :monocle_face: I'm learning new technologies for me.
 
 - :zap: In my free time, I walk around the city to music (genres can be viewed on VK (see social networks above)), I play and come up with ideas for games, and I also read a lot of different things.
 
@@ -41,12 +39,15 @@ I am a Golang Developer :iphone:.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GoLang" alt="GoLang" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka"  alt="Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
