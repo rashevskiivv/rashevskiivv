@@ -18,7 +18,7 @@
     <a href="https://docs.google.com/spreadsheets/d/1hrxDlSLinjZpAIU0nh_3MZUJVicptLOl3VfDCifCHLA/edit?usp=sharing">
       <img src="https://img.shields.io/badge/-My%20CV%20in%20English-blueviolet?style=for-the-badge" alt="English CV Badge"/>
     </a>
-        <a href="https://docs.google.com/spreadsheets/d/15GPD_X_9wHNcho8zxy89Hq-1j9W2Vi2FNDUpKt29Szg/edit?usp=share_link">
+        <a href="https://docs.google.com/document/d/1CxbEI60DjqWPuQetSfQFpKMvTT61j-0K5MkE8Yo4VU8/edit?usp=sharing">
       <img src="https://img.shields.io/badge/-My%20CV%20in%20Russian-red?style=for-the-badge" alt="Russian CV Badge"/>
     </a>
   </div>
